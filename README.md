@@ -5,7 +5,7 @@
  
  Doctor
  - patient admission 
- - write a prescription
+ - write a recipe
 
  Patient
  - make an appointment
