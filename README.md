@@ -1,4 +1,4 @@
-# Hastane_Otomasyonu
+# Hospital Automation
  This project intention, is to show doctor's, patient's, counselor's and pharmacist's job in hospital automation.
  
  In summary, the tasks are:
