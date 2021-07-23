@@ -111,5 +111,6 @@ The database structure is as follow
   <img src="https://user-images.githubusercontent.com/82450697/126034809-e3f8625b-3504-4f16-a0eb-b0b2c135a3f6.png"  width="400px" height="600px" title="hover text">
 </p>
 Note: Added ImagePath for all Users
+Note 2: F.. github resolution optimization, for HD Image click them
 
 
