@@ -6,17 +6,17 @@
 <p align="center"><h2>Screens Users Guide</h2></p>
 ### Login Page
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126832540-aff52314-4ec9-4107-834a-9df19a8a7a05.PNG"  width="500px" height="300px" title="hover text">
-  <img src="https://user-images.githubusercontent.com/82450697/126832561-9d78355c-e8e8-4ace-a5ff-f07fc0bd7d9e.PNG"  width="500" height="300px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126833899-ee7ffe0c-db04-42d0-b525-495b6fd04074.PNG"  width="500px" height="300px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126833917-5a055dc4-f07d-4d2a-bed8-5277fdf9b584.PNG"  width="500px" height="300px" title="hover text">
 </p>
 <br>
 <hr>
 <br>
 
-### Login Page
+### Register Page
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126832540-aff52314-4ec9-4107-834a-9df19a8a7a05.PNG"  width="500px" height="300px" title="hover text">
-  <img src="https://user-images.githubusercontent.com/82450697/126832561-9d78355c-e8e8-4ace-a5ff-f07fc0bd7d9e.PNG"  width="500" height="300px" title="hover text">
+  <img src=""  width="500px" height="300px" title="hover text">
+  <img src=""  width="500" height="300px" title="hover text">
 </p>
 
 
