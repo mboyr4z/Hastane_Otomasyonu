@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126834696-63754c60-434b-4c67-8d23-65037961249d.PNG"  width="800px" height="500px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126834696-63754c60-434b-4c67-8d23-65037961249d.PNG"  width="699px" height="320px" title="hover text">
 </p>
 
 
