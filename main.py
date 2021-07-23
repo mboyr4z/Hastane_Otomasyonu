@@ -17,7 +17,7 @@ def f_define_All_Objects(var):
     var.screen_login = Ui_ScreenLogin()
     var.screen_register = Ui_ScreenRegister(var)
 
-    var.screen_register.show()
+    var.screen_login.show()
 
 
     var.clickedEvents = clickedEvents(var)
