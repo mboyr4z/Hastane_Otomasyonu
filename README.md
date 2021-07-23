@@ -15,8 +15,8 @@
 
 ### Register Page
 <p align="center">
-  <img src=""  width="500px" height="300px" title="hover text">
-  <img src=""  width="500" height="300px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126833988-e039701a-b42c-4696-a502-8c3f675e80c5.PNG"  width="500px" height="300px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126834006-9715f3de-1065-4471-8234-cabd4fb518ba.PNG"  width="500px" height="300px" title="hover text">
 </p>
 
 
