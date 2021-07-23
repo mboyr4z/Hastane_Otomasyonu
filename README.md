@@ -68,7 +68,7 @@
 
 ### Pharmacist Page
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126834682-bacc4b1f-ade6-4253-b668-2b97ef1f3dbe.PNG"  width="800px" height="500px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126834682-bacc4b1f-ade6-4253-b668-2b97ef1f3dbe.PNG"  width="699px" height="320px" title="hover text">
 </p>
 
 <p align="center">
