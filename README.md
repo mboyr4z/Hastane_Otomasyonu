@@ -46,6 +46,24 @@
 </p>
 
 
+
+
+<br>
+<hr>
+<br>
+
+### Doctor Page
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834481-3de9ed66-7b6e-477f-b0a5-8ce867054303.PNG"  width="800px" height="500px" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834490-bf94c0ae-2ee2-407d-9412-1c75c2fa3a3b.PNG"  width="800px" height="500px" title="hover text">
+</p>
+
+
+
+
  This project intention is to show doctor's, patient's, counselor's and pharmacist's job in hospital automation.
  
  In summary, the tasks are:
