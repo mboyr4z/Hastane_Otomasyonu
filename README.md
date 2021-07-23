@@ -20,6 +20,9 @@
 </p>
 
 
+<br>
+<hr>
+<br>
 
 ### Patient Page
 <p align="center">
@@ -28,6 +31,18 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82450697/126834175-505c466e-6911-41da-adca-87f5e86ad9e1.PNG"  width="800px" height="500px" title="hover text">
+</p>
+<br>
+<hr>
+<br>
+
+### Counselor Page
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834318-7a37d792-4a08-448b-b617-2953b2fb8c2b.PNG"  width="800px" height="500px" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834333-91937ef8-c291-4bd7-98d7-3572aced31c0.PNG"  width="800px" height="500px" title="hover text">
 </p>
 
 
