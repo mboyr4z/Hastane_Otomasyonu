@@ -37,7 +37,7 @@ Note: Added ImagePath for all Users
 Screens Users Guide
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/126832540-aff52314-4ec9-4107-834a-9df19a8a7a05.PNG"  width="300px" height="200px" title="hover text">
-  <img src="https://user-images.githubusercontent.com/82450697/126832561-9d78355c-e8e8-4ace-a5ff-f07fc0bd7d9e.PNG"  width="300px" height="200px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126832540-aff52314-4ec9-4107-834a-9df19a8a7a05.PNG"  width="500px" height="300px" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/126832561-9d78355c-e8e8-4ace-a5ff-f07fc0bd7d9e.PNG"  width="500" height="300px" title="hover text">
 </p>
 
