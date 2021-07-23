@@ -62,6 +62,19 @@
 </p>
 
 
+<br>
+<hr>
+<br>
+
+### Pharmacist Page
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834682-bacc4b1f-ade6-4253-b668-2b97ef1f3dbe.PNG"  width="800px" height="500px" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82450697/126834696-63754c60-434b-4c67-8d23-65037961249d.PNG"  width="800px" height="500px" title="hover text">
+</p>
+
 
 
  This project intention is to show doctor's, patient's, counselor's and pharmacist's job in hospital automation.
